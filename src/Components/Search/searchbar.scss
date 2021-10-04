@@ -1,0 +1,15 @@
+$borderColor : #fcde67;
+
+.search {
+    height: 50px;
+    border-radius: 90px;
+    padding-left: auto;
+    padding-right: auto;
+    border-color: $borderColor;
+    margin-bottom: 20px;
+    margin-top: 20px;
+
+    :hover {
+        cursor: pointer;
+    }
+}

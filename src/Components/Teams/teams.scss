@@ -1,0 +1,14 @@
+$borderColor: black;
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+
+.team-cards {
+    border: 1px solid $borderColor;
+    flex-direction: row;
+}
+
